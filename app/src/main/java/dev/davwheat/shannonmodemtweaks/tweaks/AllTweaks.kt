@@ -3,6 +3,8 @@ package dev.davwheat.shannonmodemtweaks.tweaks
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.AdditionalNrSaLocking
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.LteRrcLoggedMeas
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.NrCommHpUePc1Dot5SupportedBands
+import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.NrCommHpUeSupportedBands
+import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.LteCommonHpUeSupportedBands
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.NrConfigMode
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.NrMmwave
 import dev.davwheat.shannonmodemtweaks.tweaks.nvitems.NrRoaming
