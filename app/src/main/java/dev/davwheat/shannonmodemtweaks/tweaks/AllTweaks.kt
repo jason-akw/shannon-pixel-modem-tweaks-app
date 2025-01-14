@@ -39,6 +39,8 @@ val AllTweaks: Map<String, List<Tweak>> =
         PhyUeSpecificRefSigSupport(),
         AdditionalNrSaLocking(),
         SrsTxSwitch(),
+        LteCommonHpUeSupportedBands(),
+        NrCommHpUeSupportedBands(),
         NrCommHpUePc1Dot5SupportedBands(),
         Qam256UploadSupport(),
       )
