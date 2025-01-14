@@ -6,7 +6,7 @@ import kotlinx.parcelize.IgnoredOnParcel
 import kotlinx.parcelize.Parcelize
 
 @Parcelize
-class LteCommomnHpUeSupportedBands : NvItemTweak(), Parcelable {
+class LteCommonHpUeSupportedBands : NvItemTweak(), Parcelable {
   @IgnoredOnParcel
   override val name = "Enable HPUE PC2 on LTE"
 
