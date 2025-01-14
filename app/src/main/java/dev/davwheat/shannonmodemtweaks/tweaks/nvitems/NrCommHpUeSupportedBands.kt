@@ -11,7 +11,7 @@ class NrCommHpUePc1Dot5SupportedBands : NvItemTweak(), Parcelable {
   override val name = "Enable HPUE PC2 on NR"
 
   @IgnoredOnParcel
-  override val description = "Enables HPUE power class 2 for n38/40/41/77/78"
+  override val description = "Enables HPUE power class 2 for n38/40/41/77/78, n40 HPUE only available on Pixel 9 series."
 
   private val bands get() = listOf(38, 40, 41, 77, 78)
 
